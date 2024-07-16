@@ -1,3 +1,11 @@
+# 账号注册
+```
+https://www.ct8.pl/offer/create_new_account
+https://www.serv00.com/offer/create_new_account
+```
+
+
+
 # ACCOUNTS_JSON
 
 ```json
